@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @meowbhishek
+- 👋 Hi, I’m @ChasingDoppamine
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning c
